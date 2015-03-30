@@ -1,0 +1,22 @@
+body {
+	background-color: #4bc6d0
+	font-family: Verdana;
+}
+h1 {
+	color: white;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	}
+ul {
+	color: grey;
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+	}
+li {
+	display: inline;
+	}
+a {
+  text-decoration:none;
+  color: white;
+    }

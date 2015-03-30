@@ -10,7 +10,6 @@ h1 {
 ul {
 	color: grey;
 	list-style-type: none;
-	position: fixed;
 	}
 li {
 	display: inline;
